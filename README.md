@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hola, soy parte de MODICA CHERYL 👋
 
-<!--
-**modicacherylmodicacheryl/modicacherylmodicacheryl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Administro la presencia digital de [MODICA CHERYL](https://github.com/MODICA-CHERYL), una organización dedicada a ofrecer paquetes de minutos para llamadas y opciones de recarga.
 
-Here are some ideas to get you started:
+## En qué estamos trabajando
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Desarrollar el [sitio web de MODICA CHERYL](https://modica-cheryl.github.io/sitio-web/).
+- Publicar información clara sobre nuestros servicios.
+- Mantener nuestros proyectos y su documentación organizados en GitHub.
+
+## Contacto
+
+Para consultar disponibilidad, precios y condiciones, escribe a [modicacheryl@agentmail.to](mailto:modicacheryl@agentmail.to).
+
+[Visitar la organización](https://github.com/MODICA-CHERYL) · [Visitar el sitio web](https://modica-cheryl.github.io/sitio-web/)
